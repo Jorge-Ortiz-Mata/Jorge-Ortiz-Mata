@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Jorge-Ortiz-Mata. 
--     Robotics engineer, entrepreneur and teacher. 
--     I'm 25 years old and I like to play videogames, read books and build things.
+- 👋 Hi, I’m @Jorge-Ortiz-Mata. Robotics engineer, entrepreneur and teacher. 
 - 👀 I’m interested in software developing. I'm very passionate of technology. I've built projects related to robotics and internet
 - 🌱 I’m currently learning software developing. I've been programming since I was in high school and I enjoyed doing that.
 - 💞️ I’m looking to collaborate on companies where I can work remotly.
